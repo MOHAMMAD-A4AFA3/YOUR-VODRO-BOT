@@ -16,15 +16,15 @@
     "enable": false,
     "ignoreCommand": []
   },
-  "authorName": "AHMED TARIF",
-  "authorFB": "https://m.me/Ewr.arafat.404",
+  "authorName": "sʜᴇɪᴋʜ ʀᴜᴘᴏᴋ",
+  "authorFB": "https://www.facebook.com/profile.php?id=100090111009775&mibextid=ZbWKwL",
   "API": {
     "DIPTO": "https://noobs-api.onrender.com/dipto",
     "SAMIR": "https://apis-samir.onrender.com",
     "RUBISH": "https://rubish-apihub.onrender.com/rubish"
   },
-  "nickNameBot": " Your Vodro bot 🐰💫",
-  "prefix": "-",
+  "nickNameBot": " ᴄᴀᴛ 🐰💫",
+  "prefix": ".",
   "vipUser": [
     "100081491574719",
     "",
@@ -34,20 +34,29 @@
     ""
   ],
   "orgDEV": [
-    "100081491574719",
+    "100090111009775",
     "",
     ""
   ],
   "adminBot": [
-    "100081491574719",
     "61574117474714",
+    "100081491574719",
     "",
-    ""
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "100085332887575",
+    "100086752261805",
+    "100093832717686"
   ],
   "rubishapi": "https://rubish-apihub.onrender.com/rubish",
   "diptoapi": "https://d1pt0-call-bomber.onrender.com/dipto?",
   "GOD": [
-    "100081491574719",
+    "100090111009775",
     "",
     ""
   ],
@@ -60,8 +69,8 @@
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100081491574719",
-      "28299296482990983",
+      "",
+      "",
       "",
       ""
     ],
@@ -70,8 +79,8 @@
   "whiteListModeThread": {
     "enable": false,
     "whiteListThreadIds": [
-      "100081491574719",
-      "28299296482990983",
+      "",
+      "",
       "",
       "",
       "",
